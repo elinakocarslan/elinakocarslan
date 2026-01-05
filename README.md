@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Elina 👋
 
-<!--
-**elinakocarslan/elinakocarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm a **third-year Computer Science student** at the **University of Florida** with a strong interest in building thoughtful, user-focused software. </br>
+✨ I enjoy working at the intersection of **engineering, design, and emerging technologies**, especially projects involving:
+- Full-stack development
+- Machine learning & AI-powered features
+- Product design and accessibility
+- Developer tools and productivity apps
 
-Here are some ideas to get you started:
+Most of my projects are inspired by real problems, whether that’s improving accessibility, organizing complex workflows, or creating engaging user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I Work With
+- **Languages:** Python, C++, JavaScript, SQL
+- **Frameworks & Tools:** React, React Native, FastAPI, Node.js, Flask
+- **Design:** Figma, Framer, UI/UX prototyping
+- **Databases & APIs:** MongoDB, SQLite, REST APIs
+- **Other:** Git
+
+### 🚀 What You'll Find Here
+- End-to-end applications (frontend → backend → data)
+- Coursework projects with strong technical foundations
+- Experimental ideas and passion projects
+
+### 📫 Let’s Connect
+- [LinkedIn](https://www.linkedin.com/in/elina-kocarslan/)
+- Portfolio: In progress 🎁
+- Email: ekocarslan@ufl.edu
+
+Thanks for stopping by!
