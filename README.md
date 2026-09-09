@@ -1,6 +1,6 @@
 ## Hi there, I'm Elina 👋
 
-👩‍💻 I'm a **third-year Computer Science student** at the **University of Florida** with a strong interest in building thoughtful, user-focused software. </br>
+👩‍💻 I'm a **fourth-year Computer Science student** at the **University of Florida** with a strong interest in building thoughtful, user-focused software. </br>
 ✨ I enjoy working at the intersection of **engineering, design, and emerging technologies**, especially projects involving:
 - Full-stack development
 - Machine learning & AI-powered features
@@ -10,20 +10,15 @@
 Most of my projects are inspired by real problems, whether that’s improving accessibility, organizing complex workflows, or creating engaging user experiences.
 
 ### 🛠️ Tech I Work With
-- **Languages:** Python, C++, JavaScript, SQL
-- **Frameworks & Tools:** React, React Native, FastAPI, Node.js, Flask
+- **Languages:** Python, C++, JavaScript, SQL, Java
+- **Frameworks & Tools:** React, React Native, FastAPI, Node.js, Flask, Spring Boot
 - **Design:** Figma, Framer, UI/UX prototyping
-- **Databases & APIs:** MongoDB, SQLite, REST APIs
-- **Other:** Git
-
-### 🚀 What You'll Find Here
-- End-to-end applications (frontend → backend → data)
-- Coursework projects with strong technical foundations
-- Experimental ideas and passion projects
+- **Databases & APIs:** MongoDB, SQLite, REST APIs, Postgres
+- **Other:** Git, AWS, Terraform
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/elina-kocarslan/)
-- Portfolio: In progress 🎁
+- Portfolio: (https://elinakocarslan.netlify.app/)
 - Email: ekocarslan@ufl.edu
 
 Thanks for stopping by!
